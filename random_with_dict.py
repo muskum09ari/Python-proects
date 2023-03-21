@@ -3,7 +3,7 @@ import random
 
 my_dict = {
     'name': 'Borislav Hadzhiev',
-    'fruit': 'apple',
+    'fruit': 'mango',
     'number': 5,
     'website': 'bobbyhadz.com',
     'topic': 'Python'
